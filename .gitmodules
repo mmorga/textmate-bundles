@@ -1,0 +1,129 @@
+[submodule "Ack.tmbundle"]
+	path = Ack.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "C.tmbundle"]
+	path = C.tmbundle
+	url = git://github.com/textmate/c.tmbundle.git
+[submodule "CSS.tmbundle"]
+	path = CSS.tmbundle
+	url = git://github.com/textmate/css.tmbundle.git
+[submodule "CTags.tmbundle"]
+	path = CTags.tmbundle
+	url = git://github.com/textmate/ctags.tmbundle.git
+[submodule "Diff.tmbundle"]
+	path = Diff.tmbundle
+	url = git://github.com/textmate/diff.tmbundle.git
+[submodule "Erlang.tmbundle"]
+	path = Erlang.tmbundle
+	url = git://github.com/textmate/erlang.tmbundle.git
+[submodule "FileMerge.tmbundle"]
+	path = FileMerge.tmbundle
+	url = git://github.com/textmate/filemerge.tmbundle.git
+[submodule "GetBundle.tmbundle"]
+	path = GetBundle.tmbundle
+	url = git://github.com/textmate/getbundle.tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "Graphviz.tmbundle"]
+	path = Graphviz.tmbundle
+	url = git://github.com/textmate/graphviz.tmbundle.git
+[submodule "Hobo.tmbundle"]
+	path = Hobo.tmbundle
+	url = git://github.com/drnic/hobo-tmbundle.git
+[submodule "HTML.tmbundle"]
+	path = HTML.tmbundle
+	url = git://github.com/textmate/html.tmbundle.git
+[submodule "Javascript JQuery.tmbundle"]
+	path = Javascript JQuery.tmbundle
+	url = git://github.com/textmate/javascript-jquery.tmbundle.git
+[submodule "Lua.tmbundle"]
+	path = Lua.tmbundle
+	url = git://github.com/textmate/lua.tmbundle.git
+[submodule "MacPorts.tmbundle"]
+	path = MacPorts.tmbundle
+	url = git://github.com/textmate/macports.tmbundle.git
+[submodule "Processing.tmbundle"]
+	path = Processing.tmbundle
+	url = git://github.com/textmate/processing.tmbundle.git
+[submodule "Python.tmbundle"]
+	path = Python.tmbundle
+	url = git://github.com/textmate/python.tmbundle.git
+[submodule "R Console (Rdaemon).tmbundle"]
+	path = R Console (Rdaemon).tmbundle
+	url = git://github.com/textmate/r-console-rdaemon.tmbundle.git
+[submodule "R Console R.app.tmbundle"]
+	path = R Console R.app.tmbundle
+	url = git://github.com/textmate/r-console-r.app.tmbundle.git
+[submodule "R.tmbundle"]
+	path = R.tmbundle
+	url = git://github.com/textmate/r.tmbundle.git
+[submodule "RegularExpressions.tmbundle"]
+	path = RegularExpressions.tmbundle
+	url = git://github.com/textmate/regularexpressions.tmbundle.git
+[submodule "Ruby Amp.tmbundle"]
+	path = Ruby Amp.tmbundle
+	url = git://github.com/timcharper/rubyamp.git
+[submodule "Ruby HAML.tmbundle"]
+	path = Ruby HAML.tmbundle
+	url = git://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "Ruby on Rails.tmbundle"]
+	path = Ruby on Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Ruby Sass.tmbundle"]
+	path = Ruby Sass.tmbundle
+	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
+[submodule "Ruby Shoulda.tmbundle"]
+	path = Ruby Shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "RubyCocoa.tmbundle"]
+	path = RubyCocoa.tmbundle
+	url = git://github.com/drnic/rubycocoa-tmbundle.git
+[submodule "S5.tmbundle"]
+	path = S5.tmbundle
+	url = git://github.com/textmate/s5.tmbundle.git
+[submodule "Source.tmbundle"]
+	path = Source.tmbundle
+	url = git://github.com/textmate/source.tmbundle.git
+[submodule "SQL.tmbundle"]
+	path = SQL.tmbundle
+	url = git://github.com/textmate/sql.tmbundle.git
+[submodule "Subversion.tmbundle"]
+	path = Subversion.tmbundle
+	url = git://github.com/textmate/subversion.tmbundle.git
+[submodule "TerminalMate.tmbundle"]
+	path = TerminalMate.tmbundle
+	url = git://github.com/textmate/terminalmate.tmbundle.git
+[submodule "Text.tmbundle"]
+	path = Text.tmbundle
+	url = git://github.com/textmate/text.tmbundle.git
+[submodule "Textile.tmbundle"]
+	path = Textile.tmbundle
+	url = git://github.com/textmate/textile.tmbundle.git
+[submodule "TextMate.tmbundle"]
+	path = TextMate.tmbundle
+	url = git://github.com/textmate/textmate.tmbundle.git
+[submodule "XCode.tmbundle"]
+	path = XCode.tmbundle
+	url = git://github.com/textmate/xcode.tmbundle.git
+[submodule "Xml.tmbundle"]
+	path = Xml.tmbundle
+	url = git://github.com/adamv/xml.tmbundle.git
+[submodule "Yaml.tmbundle"]
+	path = Yaml.tmbundle
+	url = git://github.com/textmate/yaml.tmbundle.git
+[submodule "Javascript.tmbundle"]
+	path = Javascript.tmbundle
+	url = git://github.com/textmate/javascript.tmbundle.git
+[submodule "Apache.tmbundle"]
+	path = Apache.tmbundle
+	url = git://github.com/textmate/apache.tmbundle.git
+[submodule "Java.tmbundle"]
+	path = Java.tmbundle
+	url = git://github.com/textmate/java.tmbundle.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
